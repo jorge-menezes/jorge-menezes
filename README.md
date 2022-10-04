@@ -20,4 +20,6 @@
 </div><br/>
 
 
-Sou entusiasta apaixonando por Tecnologia 
+Sou entusiasta apaixonando por Tecnologia <br/>
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
