@@ -1,5 +1,15 @@
 ### Sou Jorge Menezes 🖐️<br/>
 
+Hi! I'm 65 years old and I'm from Recife.
+During this trajectory, I had the opportunity to work with languages.
+I really like challenges and new frameworks and I've included here in this repository some examples of what I'm researching.
+ 
+ [Portuguese]
+
+Olá! Tenho 65 anos e sou de Recife. 
+No decorrer desta trajetória, tive a oportunidade de trabalhar com  linguagens. 
+Gosto muito de desafios e novos frameworks e tenho incluído aqui neste repositório alguns exemplos do que estou pesquisando.
+
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://edigital3.webnode.com/)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCArHjMTuBeIL8DAtNGfjSCQ)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eSound_8)
