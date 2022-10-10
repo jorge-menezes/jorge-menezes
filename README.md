@@ -1,12 +1,7 @@
 ### Sou Jorge Menezes 🖐️<br/>
 
-Hi! I'm 65 years old and I'm from Recife.
-During this trajectory, I had the opportunity to work with languagens.
-I really like challenges and new frameworks and I've included here in this repository some examples of what I'm researching.
- 
- [Portuguese]
+ Entre minhas softskills destacam-se: comunicação, foco em resultados, humildade, senso de justiça, assiduidade e facilidade no trabalho em equipe.Sou uma pessoa determinada, empenhada, comprometida, fácil aprendizado e de rápida adaptação, entusiasta para aprender e sei lidar com criticas construtivas.
 
-Tenho 65 anos e sou de Recife. 
 No decorrer desta trajetória, tive a oportunidade de trabalhar com  linguagens. 
 Gosto muito de desafios e novos frameworks e tenho incluído aqui neste repositório alguns exemplos do que estou pesquisando.
 
