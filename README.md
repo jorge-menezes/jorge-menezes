@@ -1,7 +1,7 @@
 ### Sou Jorge Menezes 🖐️<br/>
 
 Hi! I'm 65 years old and I'm from Recife.
-During this trajectory, I had the opportunity to work with languages.
+During this trajectory, I had the opportunity to work with languagens.
 I really like challenges and new frameworks and I've included here in this repository some examples of what I'm researching.
  
  [Portuguese]
