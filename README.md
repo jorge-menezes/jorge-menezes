@@ -1,9 +1,12 @@
 ### Sou Jorge Menezes 🖐️<br/>
 
+ [![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
+
  Entre minhas softskills destacam-se: comunicação, foco em resultados, humildade, senso de justiça, assiduidade e facilidade no trabalho em equipe.Sou uma pessoa determinada, empenhada, comprometida, fácil aprendizado e de rápida adaptação, entusiasta para aprender e sei lidar com criticas construtivas.
 
 No decorrer desta trajetória, tive a oportunidade de trabalhar com  linguagens. 
 Gosto muito de desafios e novos frameworks e tenho incluído aqui neste repositório alguns exemplos do que estou pesquisando.
+
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://edigital3.webnode.com/)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCArHjMTuBeIL8DAtNGfjSCQ)
