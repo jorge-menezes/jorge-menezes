@@ -6,7 +6,7 @@ I really like challenges and new frameworks and I've included here in this repos
  
  [Portuguese]
 
-Olá! Tenho 65 anos e sou de Recife. 
+Tenho 65 anos e sou de Recife. 
 No decorrer desta trajetória, tive a oportunidade de trabalhar com  linguagens. 
 Gosto muito de desafios e novos frameworks e tenho incluído aqui neste repositório alguns exemplos do que estou pesquisando.
 
