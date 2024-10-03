@@ -13,9 +13,8 @@ Gosto muito de desafios e novos frameworks e tenho inclu√≠do aqui neste reposit√
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eSound_8)
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-
 [![Jorge Menezes GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-menezes)](https://github.com/jorge-menezes/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-menezes&hide_progress=true)
 ## Tecnologias que uso no meu dia
 
 <div style="dsiplay: inline_block"><br/>
