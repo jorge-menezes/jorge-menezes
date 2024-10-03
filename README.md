@@ -15,7 +15,7 @@ Gosto muito de desafios e novos frameworks e tenho inclu√≠do aqui neste reposit√
 
 
 [![Jorge Menezes GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-menezes)](https://github.com/jorge-menezes/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 ## Tecnologias que uso no meu dia
 
 <div style="dsiplay: inline_block"><br/>
