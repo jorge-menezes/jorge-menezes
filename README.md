@@ -11,7 +11,7 @@ Gosto muito de desafios e novos frameworks e tenho inclu√≠do aqui neste reposit√
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://edigital3.webnode.com/)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCArHjMTuBeIL8DAtNGfjSCQ)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eSound_8)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![Jorge Menezes GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-menezes&show_icons=true&theme=radical)
 
